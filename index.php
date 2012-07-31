@@ -12,6 +12,7 @@
 	<body>
 
 		<h1>This is the chillgr.im home page</h1>
+		<h3>I hope this line makes git start working</h3>
 
 	</body>
 </html>	
