@@ -9,6 +9,40 @@ chillgr.im
 
 **/
 
+@font-face {
+	font-family: Quicksand;
+	src:	url('fonts/Quicksand_Light.otf');
+}
+@font-face {
+	font-family: QuicksandBold;
+	src:	url('fonts/Quicksand_Bold.otf');
+}
+@font-face {
+	font-family: QuicksandBook;
+	src:	url('fonts/Quicksand_Book.otf');
+}
+@font-face {
+	font-family: QuicksandDash;
+	src:	url('fonts/Quicksand_Dash.otf');
+}
+
+* {
+	font-family: Quicksand;
+}
 body {
-	background: #000;
+	background: #2B3A42;
+	color: #EFEFEF;
+}
+
+.main {
+	margin-top: 250px;
+	min-height: 500px;
+	text-align: center;
+	font-size: 2em;
+}
+p.logo {
+	font-size: 100px;
+	color: #FF530D;
+	letter-spacing: -6px;
+	margin-bottom: 50px
 }
