@@ -2,6 +2,7 @@
 	<head>
 		<title>chillgr.im | the best in chillout</title>
 
+		<link rel="shortcut icon" href="img/favicon.ico" />
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="css/style.css" />
 
