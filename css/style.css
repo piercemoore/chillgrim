@@ -36,21 +36,41 @@ Orange: #FF530D;
 
 * {
 	font-family: Quicksand;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: #BDD4DE;
+}
+a:hover {
+	text-decoration: none;
+	color: #EFEFEF;
 }
 body {
 	background: #2B3A42;
 	color: #EFEFEF;
+	font-size: 20px;
 }
-
-.main {
-	margin-top: 250px;
-	min-height: 500px;
-	text-align: center;
-	font-size: 2em;
+header {
+	padding-bottom: 50px;
+	border-bottom: 1px #EFEFEF solid;
+}
+nav {
+	margin: 25px 0 25px 0;
+}
+a,button,input,select,textarea {
+	font-family: Quicksand;
 }
 p.logo {
-	font-size: 100px;
+	font-size: 4em;
 	color: #FF530D;
-	letter-spacing: -6px;
-	margin-bottom: 50px
+	margin-top: 80px;
+	letter-spacing: -8px;
+}
+p.subheader {
+	font-size: 2em;
+	color: #FF530D;
+	letter-spacing: -5px;
+	margin-bottom: 0;
+	font-family: QuicksandBook;
 }
