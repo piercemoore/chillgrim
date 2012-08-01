@@ -37,21 +37,26 @@
 		</header>
 
 		<nav class="row" id="chill_nav">
+			
 			<div class="span4 offset2">
 				<p class="subheader">chillgr.im mix</p>
+				<iframe src="https://embed.spotify.com/?uri=spotify:user:piercemoore:playlist:0gixIhLYC54z2V0mhWIjyC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+				<br /><br />
+				<a class="btn btn-primary" href="http://open.spotify.com/user/piercemoore/playlist/0gixIhLYC54z2V0mhWIjyC">Open in Spotify</a>		
 			</div>
 
 			<div class="span4">
 				<p class="subheader">massive chillout</p>
+				<iframe src="https://embed.spotify.com/?uri=spotify:user:piercemoore:playlist:7EOiUXfkXj8GmC8LAQmPRM" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+				<br /><br />
+				<a class="btn btn-primary" href="http://open.spotify.com/user/piercemoore/playlist/7EOiUXfkXj8GmC8LAQmPRM">Open in Spotify</a>
 			</div>
 		</nav>
 
-		<div class="row">
+		<!-- <div class="row">
 			<div class="span4 offset2">
-				<iframe src="https://embed.spotify.com/?uri=spotify:user:piercemoore:playlist:0gixIhLYC54z2V0mhWIjyC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 			</div>
 			<div class="span4">
-				<iframe src="https://embed.spotify.com/?uri=spotify:user:piercemoore:playlist:7EOiUXfkXj8GmC8LAQmPRM" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 			</div>
 		</div>
 
@@ -59,13 +64,11 @@
 
 		<div class="row">
 			<div class="span4 offset2">
-				<a class="btn btn-large btn-primary" id="btn_playlists" href="http://open.spotify.com/user/piercemoore/playlist/0gixIhLYC54z2V0mhWIjyC">Open in Spotify</a>
 			</div>
 
 			<div class="span4">
-				<a class="btn btn-large btn-primary" id="btn_playlists" href="http://open.spotify.com/user/piercemoore/playlist/7EOiUXfkXj8GmC8LAQmPRM">Open in Spotify</a>
 			</div>
-		</div>
+		</div> -->
 
 	</body>
 </html>	
